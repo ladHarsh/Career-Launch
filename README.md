@@ -16,6 +16,7 @@ Career Launch converts resumes and job descriptions into high-dimensional vector
 ---
 
 ## Links
+- **Video Demo**: https://youtu.be/jdLr-34M-_A
 - **Live Application**: https://career-launch.streamlit.app/
 - **Portfolio**: https://harshlad.vercel.app/
 
